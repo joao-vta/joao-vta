@@ -5,7 +5,7 @@ I'm a computer science student at the University of São Paulo. I'm interested i
 
 ## What am i up to?
 * Currently an Undergraduate Research Assistant working together with the [FEBRACE](https://febrace.org.br/) analytics team
-* Developing a causal inference library in python.
+* Developing a causal inference library in python, [pycausal-explorer](https://github.com/gotolino/pycausal-explorer)
 
 <div align="center">
   <a href="https://github.com/joao-vta">
