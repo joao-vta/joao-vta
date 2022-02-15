@@ -3,9 +3,9 @@
 ## About me
 I'm a computer science student at the University of São Paulo. I'm interested in cyber security, web development and machine learning.  
 
-Currently an Undergraduate Research Assistant developing a causal inference library in python.
-
-
+## What am i up to?
+* Currently an Undergraduate Research Assistant working together with the [FEBRACE](https://febrace.org.br/) analytics team
+* Developing a causal inference library in python.
 
 <div align="center">
   <a href="https://github.com/joao-vta">
@@ -19,4 +19,3 @@ Currently an Undergraduate Research Assistant developing a causal inference libr
 </div>
 
  
-</div>
