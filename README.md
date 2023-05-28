@@ -5,6 +5,7 @@ I'm a computer science student at the University of São Paulo. I work mostly wi
 
 ## What am i up to?
 * Currently a fullstack developer at Envision Techonology, a company that develops turism API's and products.
+* I mostly code with C# and JS. 
 
 <div align="center">
   <a href="https://github.com/joao-vta">
