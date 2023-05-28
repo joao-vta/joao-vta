@@ -1,11 +1,10 @@
 # Hi, i'm João Vitor Tigre Almeida 🐅
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/joao-vitor-tigre-almeida-1831b2190/)
 ## About me
-I'm a computer science student at the University of São Paulo. I'm interested in cyber security, web development and machine learning.  
+I'm a computer science student at the University of São Paulo. I work mostly with cyber security and web development. 
 
 ## What am i up to?
-* Currently an Undergraduate Research Assistant working together with the [FEBRACE](https://febrace.org.br/) analytics team
-* We are developing a causal inference library in python, [pycausal-explorer](https://github.com/gotolino/pycausal-explorer), to better estimate the impact FEBRACE has on public education.
+* Currently a fullstack developer at Envision Techonology, a company that develops turism API's and products.
 
 <div align="center">
   <a href="https://github.com/joao-vta">
